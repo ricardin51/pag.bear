@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>Mundo dos Ursos</title>
+            <link rel="stylesheet" href="style.css">
+        </head>
+            <body>
+            <h1> Saudações e Bem-Vindos ao fascinante mundo dos ursos! <span style='font: size 1.5em;'>&#128059;</span></h1> 
+
+            <div>
+            <p> Os ursos são mamíferos incríveis e poderosos que habitam diversas regiões do mundo. Eles possuem um grande laço familiar entre eles, com a mãe lutando para proteger os seus filhotes de predadores, ensinam os filhotes a caçar alimentos, além dos filhotes serem grandes brincalhões, fazendo brincadeiras com suas mães e seus irmãos.
+                Com suas impressionantes habilidades de sobrevivência, esses gigantes da natureza podem ser encontrados em ambientes que vão desde florestas tropicais até o gelo do Ártico.<br></p>
+            <p>Existem <span class="highlight">oito espécies de ursos no mundo</span>, cada uma com características únicas e comportamentos fascinantes. Embora sejam conhecidos por seu tamanho e força, é importante lembrar que os ursos são animais selvagens e podem ser perigosos se encontrados em seus habitats naturais.</p>
+            <p> Infelizmente, algumas dessas espécies de ursos que correm o risco de entrar em extinção como: <span class="highlight">urso panda, o urso urso-negro-asiático, urso polar, urso malaio, urso-de-óculos, urso-préguiça</span> estão entre os que enfrentam ameaças, seja pela perda de habitat ou pela caça ilegal.</p>
+            <p><strong>Descubra mais sobre esses magníficos animais e as curiosidades que os tornam tão especiais!</strong></p>
+
+        </div>   
+                <div class="Urso Polar">
+                    <h2>Urso Polar(Ursus maritimus)</h2> 
+                    <img src="pexels-pixabay-53425.jpg" >
+                    <p> Ursos polares são encontrados em regiões geladas do Ártico(Canadá, Rússia, Alasca, Groelândia e Noruega).<br>
+                        São exímiso nadadores, capazes de nadar longas distâncias.<br>
+                        Eles são animais carnívoros alimentando-se principalmente de focas, peixes e carcaças de baleias.<br>
+                        Quando chegam na fase adulta, o macho pode pesar cerca de 350 a 700 kg, enquanto as fêmeas podem pesar cerca de 150 a 250 kg.<br>
+                        Os seus tamanhos na fase adulta, o macho pode chegar à 2,4 a 3,0 metros de comprimento, enquanto nas fêmeas chegam à 1,8 a 2,4 metros de comprimento.<br>
+                        Tem um tempo de vida de aproximadamente 25 a 30 anos na naturaza.
+                    </p>
+                    <p class="curiosidade"> Curiosidade: Suas pelagens parecem brancas, mas na verdade são transparentes e refletem a luz.<br>
+                    </p>
+                </div>
+
+                <div class="Urso Negro">
+                    <h2>Urso negro(Ursus americanus)</h2> <!--imagem-->
+                    <img src="url" alt="Urso negro">
+                    <p>São encontrados no norte da América do Norte, desde o Canadá até o México, e em várias partes dos Estados Unidos.<br>
+                        Tem um tempo de vida de aproximadamente de 20 a 25 anos na natureza.<br>
+                        Quando estão em suas fase adulta eles pesam cerca de 90 a 270 kg os machos, enquanto às fêmeas pesam cerca de 20 a 180 kg.<br>
+                        Na fase adulta os ursos negros tem cerca de 1,2 a 2 metros de comprimento.<br>
+                        São conhecidos por comerem muitos peixes, frutas, nozes, e alguns mamíferos.<br>
+                    </p>
+                    <p class="curiosidade">Curiosidade: São conhecidos por suas habilidades de escalar árvores.</p>
+                </div> 
+
+                <div class="Urso Panda">
+                    <h2>Urso Panda(Ailuropoda melanoleuca)</h2> <!--imagem-->
+                    <p>São encontrados em regiões da China que possuem florestas temperadas, como nas províncias de Sichuan, Gansu e Shanxi. 
+                        Essas regiões são conhecidas por terem florestas de Bambu.<br>
+                        Quando chegam na fase adulta, pesam em torno de 70 a 160 kg.<br>
+                        Os seus tamanhos na fase adulta chegam a ter 1,2 a 1,8 metros de comprimento.<br>
+                        Os pandas tem um tempo de vida de aproximadamente 20 anos na natureza, até 30 anos em zoológicos.<br>
+                        Possuem uma pelagem com coloração preta e branca.
+                    </p>
+                    <p class="curiosidade">Curiosidade: Apesar de serem ursos, os pandas têm um dieta predominantemente herbívora.</p>
+                </div>
+
+                <div> 
+                    <h2>Urso-negro-asiático(Ursus thibetanus)</h2>
+                    <p>São encontrados em florestas da Ásia, incluindo partes do Himalaia, Japão, Coreia do Norte, Vietnã e Rússia.<br>
+                        Os ursos-negros-asiáticos possuem um tempo de vida estimado em cerca de 20 a 25 anos na natureza.<br>
+                        Quando em suas fases adultas eles chegam a pesar cerca de 90 a 200 kg os machos enquanto às fêmeas chegam a pesar cerca de 65 a 90 kg.<br>
+                        Os seus tamanhos na fase adulta chegam a ter cerca de 1,3 a 1,9 metros de comprimento.<br>
+                        Gostam de comer especialmente frutas, nozes, plantas e pequenos insetos.<br>
+                    </p>
+                    <p class="curiosidade">Curiosidade: Também são conhecidos por "Urso da Lua", por causa do formato de uma mancha branca em seus peitos.</p>
+                </div>
+
+                <div>
+                    <h2>Urso malaio(Helarctos malayanus)</h2>
+                    <p>São localizados em florestas tropicais do Sudeste Asiático, incluindo Malásia, Indonésia e Tailândia.<br>
+                        Quando estão em suas fases adultas um urso malaio pode chegar a medir cerca de 1,2 a 1,5 metros de comprimento.<br>
+                        Nas fases adultas os ursos podem chegar a pesar entre 25 a 65 kg.<br>
+                        Os ursos malaios tem um tempo de vida de aproximadamente 25 anos na natureza chegando até os 30 anos se mantidos em zoológicos.<br>
+                        Esses ursos são considerados Onívoros por consumirem muitas frutas, plantas, eles também comem pequenos insetos e vertebrados.<br>
+                    </p>
+                    <p class="curiosidade">Curiosidade: É o menor de todas às espécies de ursos.</p>
+                </div>
+
+                <div>
+                <h2>Urso-de-óculos(Tremarctos ornatus)</h2>
+                    <p> São encontrados nas florestas Tropicais e montanhas dos Andes, na America do Sul(principalmente nos paises do Peru, Colômbia, Equador e Bolívia).<br>
+                        Quando estão nas fase adulta os urso-de-óculos pesam cerca de 80 a 175 kg.<br>
+                        Eles tem um tempo de vida de aproximadamente 20 anos na natureza chegando até os 30 anos se mantidos em zoológicos.<br>
+                        Seus tamanhos na fase adulta chegam a cerca de 1,2 a 2 metros de comprimento.<br>
+                        Eles são conhecidos assim por apresentarem marcas ao redor dos olhos que lembram óculos, embora nem todos apresentem essas características.<br>
+                    </p>
+                    <p class="curiosidade">Curiosidade: Essa espécie é a única nativa da América do sul.</p>
+                </div>
+
+                <div>
+                    <h2>Urso-preguiça(Melursus ursinus)</h2>
+                    <p> O urso-preguiça vive nas florestas da Índia, Nepal, Bangladesh e do Sri Lanka.<br>
+                        São em sua maior parte insetívoros por se alimenta principalmente de cupins e formigas, usando suas longas garras para cavar e sua língua comprida para capturá-los.<br>
+                        Quando estão em sua fase adulta medem cerca de 1,5 a 1,8 metros de comprimento.<br>
+                        Em sua fase adulta eles pesam cerca de 55 a 145 kg.<br>
+                        Tem um tempo de vida entre 15 a 20 anos na natureza, enquanto pode chegar a 30 anos se mantidos em zoológicos.<br> 
+                    </p> 
+                    <p class="curiosidade">Curiosidade: Ao contrário da maioria dos ursos, são principalmente noturnos.</p>
+                </div>
+
+                <div>
+                    <h2>Urso marrom ou pardo(Ursus arctos)</h2>
+                    <img src="pexels-shtefutsa-17646625.jpg" alt="Urso pardo">
+                    <p>Os ursos marrons têm uma ampla distribuição, encontrados em partes da América do Norte, Europa e Ásia, especialmente em regiões montanhosas e florestas.<br> 
+                        Eles são conhecidos por sua força e por se prepararem para a hibernação no inverno, acumulando gordura durante o outono.<br>
+                        Quando chegam em suas fases adultas, os machos chegam a medir de 2 a 3 metros de comprimento enquanto às fêmeas chegam a medir 1,5 a 2 metros de comprimento.<br>
+                        Nas fase adulta o macho pesa cerca de 180 a 680 kg enquanto as fêmeas pesam cerca de 130 a 360 kg.<br>
+                        Eles tem um tempo de vida de 20 a 30 anos na natureza.<br>    
+                    </p>
+                    <p class="curiosidade">Curiosidade: Ursos marrons que vivem no Alasca e no Canadá são conhecidos como ursos-cinzento ou grizzlies.</p>
+                </div>
+
+                <p>Os ursos desempenham um papel essencial no ecossistema. Desde o <strong>urso polar</strong> até o pequeno <strong>urso malaio</strong>, cada espécie tem sua importância. A preservação dessas espécies é crucial, pois muitas enfrentam ameaças devido à perda de habitat e caça ilegal.</p>
+                <p>O dia do Urso é comemorado no dia 23 de março, um ótimo momento para refletir sobre a importância de preservar essas incríveis criaturas!</p>
+
+                <h3>Mais informações</h3>
+                <p>Visite: <a href="https://www.worldwildlife.org/species" target="_blank">World Wildlife Fund for Nature</a> e descubra como você pode ajudar a preservar os ursos, juntos de outros animais em risco de extinção.</p>
+                
+                <footer>
+                    <p>Obrigado por visitar nossa página! Continue explorando e aprendendo mais sobre esses incríveis animais.</p>
+                </footer>
+           
+            </body>
+    </html>
